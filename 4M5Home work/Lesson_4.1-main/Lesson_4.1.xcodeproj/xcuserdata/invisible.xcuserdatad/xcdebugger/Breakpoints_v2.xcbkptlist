@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C13E0F03-E9BD-4C0E-BB5D-8486222E746F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08B8E561-3B42-4D34-9A54-E68045539F76"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVC/Controller/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "75F5F065-563E-4136-A5CC-45222CA51871"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVC/Controller/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E6A60F2A-8A06-4D6D-B9A6-A138DCE49C48"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVC/Controller/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "MainViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E6A60F2A-8A06-4D6D-B9A6-A138DCE49C48 - 98e3409476bd731d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_4_1.MainViewController.dataJSOrder.getter : Lesson_4_1.GetOrderData"
+                  moduleName = "Lesson_4.1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/invisible/Documents/projects/4Month/4M5Home%20work/Lesson_4.1-main/MVC/Controller/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "45">
+               </Location>
+               <Location
+                  uuid = "E6A60F2A-8A06-4D6D-B9A6-A138DCE49C48 - 7c0c256d41f541d9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_4_1.MainViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Lesson_4_1.MainViewController"
+                  moduleName = "Lesson_4.1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/invisible/Documents/projects/4Month/4M5Home%20work/Lesson_4.1-main/MVC/Controller/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "411">
+               </Location>
+               <Location
+                  uuid = "E6A60F2A-8A06-4D6D-B9A6-A138DCE49C48 - a986eedc7966c995"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_4_1.MainViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Lesson_4_1.MainViewController&gt;"
+                  moduleName = "Lesson_4.1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/invisible/Documents/projects/4Month/4M5Home%20work/Lesson_4.1-main/MVC/Controller/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "368">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17DF69F9-0BCC-4169-ADC6-F7F08068C516"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVC/Controller/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D7095FF-DBAB-4089-BA82-EE5FBC14F657"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVC/Controller/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "MainViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0D7095FF-DBAB-4089-BA82-EE5FBC14F657 - 5d8085e1d3403d8e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_4_1.MainViewController.dataJSService.getter : Lesson_4_1.GetServiceData"
+                  moduleName = "Lesson_4.1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/invisible/Documents/projects/4Month/4M5Home%20work/Lesson_4.1-main/MVC/Controller/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "45">
+               </Location>
+               <Location
+                  uuid = "0D7095FF-DBAB-4089-BA82-EE5FBC14F657 - 7c0c256d41f541f8"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_4_1.MainViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Lesson_4_1.MainViewController"
+                  moduleName = "Lesson_4.1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/invisible/Documents/projects/4Month/4M5Home%20work/Lesson_4.1-main/MVC/Controller/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "362">
+               </Location>
+               <Location
+                  uuid = "0D7095FF-DBAB-4089-BA82-EE5FBC14F657 - a986eedc7966c9b4"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Lesson_4_1.MainViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Lesson_4_1.MainViewController&gt;"
+                  moduleName = "Lesson_4.1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/invisible/Documents/projects/4Month/4M5Home%20work/Lesson_4.1-main/MVC/Controller/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "319">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
